@@ -41,7 +41,7 @@ public class Principal {
 				System.out.println(
 						" Iterar sobre la lista y mostrar la información de cada empleado Seleccionaste la opción 2");
 				// Iterar sobre la lista y mostrar la información de cada empleado
-				System.out.println("Información de empleados:");
+				System.out.println("Información de empleados:  Completas");
 				listaEmpleados.forEach(
 						empleado -> System.out.println("Nombre: " + empleado.getNombre() + ", Fecha de Contratación: "
 								+ empleado.getFechaContratacion() + ", Habilidades: " + empleado.getHabilidades()));
