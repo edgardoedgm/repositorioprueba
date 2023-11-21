@@ -14,7 +14,7 @@ public class EjemploHashCode {
 		persona1.setEdad(25);
 
 		EjemploHashCode persona2 = new EjemploHashCode();
-		persona2.setNombre("Juan");
+		persona2.setNombre("Juan Arias");
 		persona2.setEdad(25);
 
 		// El método equals() debería devolver true
