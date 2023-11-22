@@ -24,3 +24,5 @@ pruebas de curso
 >>>>>>>
 # desarrollador Edgardo
 
+# desarrollador Juan
+
