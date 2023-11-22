@@ -21,4 +21,6 @@ pruebas de curso
 =======
 # Desarrollador Andres
 >>>>>>> 7ed4b34 (add desarrolladors)
+>>>>>>>
+# desarrollador Edgardo
 
