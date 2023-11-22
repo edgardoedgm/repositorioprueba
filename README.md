@@ -13,8 +13,4 @@ pruebas de curso
 >>>>>>> 26bd92809d6fbb5126bfb2094b84989545967912
 
 
-<<<<<<< HEAD
-# prueba de Modificaciones 5,7
-=======
 # prueba de Modificaciones 5,8
->>>>>>> ff0da33 (modificaciones 5,8)
