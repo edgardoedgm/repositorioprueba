@@ -16,5 +16,9 @@ pruebas de curso
 
 
 # Modificar Nuevos proyectos  we
+<<<<<<< HEAD
 # Desarrollador Carlos
+=======
+# Desarrollador Andres
+>>>>>>> 7ed4b34 (add desarrolladors)
 
